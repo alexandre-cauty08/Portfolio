@@ -1,5 +1,5 @@
 /* navigation bar function */
-
+/**/
 function myMenuFunction() 
 {
     var menuBtn = document.getElementById("myNavMenu");
