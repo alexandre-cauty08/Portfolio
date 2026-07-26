@@ -84,7 +84,7 @@ function headerShadow()
 /* typing effect */
 
 var typingEfect = new Typed(".typedText",{
-    strings : ["Data Scientist","Data Analyst"],
+    strings : ["Data Engineer","Data Analyst"],
     loop : true,
     typeSpeed : 100,
     backSpeed : 80,
